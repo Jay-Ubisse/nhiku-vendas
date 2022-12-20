@@ -1,6 +1,6 @@
-# Binario Store 
+# Nhiku Vendas
 
-Esta é a Loja Virtual (e-Commerce) da Binario. Esta loja ocupa-se na venda de componentes electónicos como Microcontroladores, micropocessadores, circuitos integrados e componentes discretos (como resistores e leds).
+Esta é a Loja Virtual (e-Commerce) da Nhiku Vendas. Esta loja ocupa-se na venda de componentes celulares, tablets, computadores, entre outros dispositivos electrónicos.
 
 ##### Projecto criado por:
 **Jay Ubisse** - [Jay-Ubisse](https://github.com/Jay-Ubisse)
@@ -34,6 +34,3 @@ O projecto deste repositório conta com a colaboração de:
 ### Base de Dados
 - MySQL
 
-### Layout
-
-**Link para o layout no Figma:** - [https://www.figma.com/file/Ok00jzNC4Io5ZKL0gxvVZC/Binario-Store?node-id=3%3A4](https://www.figma.com/file/Ok00jzNC4Io5ZKL0gxvVZC/Binario-Store?node-id=3%3A4)
